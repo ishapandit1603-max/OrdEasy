@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+logs/
+uploads/*
+!uploads/pdfs
+!uploads/excel
+!uploads/images
+*.db

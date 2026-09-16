@@ -1,0 +1,7 @@
+{
+  "5HBB001": { "product_name": "Pressure Sensor", "unit_price": 500, "quantity_available": 120 },
+  "5HBB002": { "product_name": "Temperature Sensor", "unit_price": 450, "quantity_available": 80 },
+  "5HBB003": { "product_name": "Flow Meter", "unit_price": 1200, "quantity_available": 35 },
+  "5HBB004": { "product_name": "Circuit Breaker 32A", "unit_price": 2200, "quantity_available": 60 },
+  "5HBB005": { "product_name": "Relay Module", "unit_price": 300, "quantity_available": 200 }
+}

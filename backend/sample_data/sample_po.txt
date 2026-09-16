@@ -1,0 +1,21 @@
+Purchase Order
+
+Customer: ABC Industries
+PO Number: PO-5678
+Order Date: 20 July 2026
+Delivery Date: 25 July 2026
+GST Number: 27ABCDE1234F1Z5
+
+Item 1
+Product Code: 5HBB001
+Product Name: Pressure Sensor
+Quantity: 20
+Unit Price: 500
+
+Item 2
+Product Code: 5HBB003
+Product Name: Flow Meter
+Quantity: 5
+Unit Price: 1200
+
+Currency: INR
